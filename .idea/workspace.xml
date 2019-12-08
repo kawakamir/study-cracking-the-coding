@@ -50,35 +50,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in 4-1.py">
-    <configuration name="Unittests for 2-4.TestSeparateByNum.test1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests in 4-2.py">
+    <configuration name="Unittests for 4-2.Test.test1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="study-cracking-the-coding-interview" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;2-4.TestSeparateByNum.test1&quot;" />
+      <option name="_new_target" value="&quot;4-2.Test.test1&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in 2-4.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="study-cracking-the-coding-interview" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/chapter2/2-4.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Unittests in 2-5.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -126,13 +111,28 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in 4-2.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="study-cracking-the-coding-interview" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/chapter4/4-2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in 4-2.py" />
+        <item itemvalue="Python tests.Unittests for 4-2.Test.test1" />
         <item itemvalue="Python tests.Unittests in 4-1.py" />
         <item itemvalue="Python tests.Unittests in 2-6.py" />
         <item itemvalue="Python tests.Unittests in 2-5.py" />
-        <item itemvalue="Python tests.Unittests in 2-4.py" />
-        <item itemvalue="Python tests.Unittests for 2-4.TestSeparateByNum.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +165,7 @@
       <workItem from="1575195423487" duration="2593000" />
       <workItem from="1575277064980" duration="367000" />
       <workItem from="1575373902233" duration="4520000" />
-      <workItem from="1575791282077" duration="658000" />
+      <workItem from="1575791282077" duration="2793000" />
     </task>
     <servers />
   </component>
@@ -189,6 +189,7 @@
     <SUITE FILE_PATH="coverage/study_cracking_the_coding_interview$2_1.coverage" NAME="2-1 Coverage Results" MODIFIED="1571559580010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/study_cracking_the_coding_interview$Unittests_for_2_4_TestSeparateByNum_test1.coverage" NAME="Unittests for 2-4.TestSeparateByNum.test1 Coverage Results" MODIFIED="1572435116109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/study_cracking_the_coding_interview$Unittests_in_2_4_py.coverage" NAME="Unittests in 2-4.py Coverage Results" MODIFIED="1572440925033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
+    <SUITE FILE_PATH="coverage/study_cracking_the_coding_interview$Unittests_in_4_2_py.coverage" NAME="Unittests in 4-2.py Coverage Results" MODIFIED="1575794328645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
     <SUITE FILE_PATH="coverage/study_cracking_the_coding_interview$1_7.coverage" NAME="1-7 Coverage Results" MODIFIED="1571052354250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/study_cracking_the_coding_interview$Unittests_in_2_5_py.coverage" NAME="Unittests in 2-5.py Coverage Results" MODIFIED="1572521547008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/study_cracking_the_coding_interview$Unittests_in_4_1_py.coverage" NAME="Unittests in 4-1.py Coverage Results" MODIFIED="1575375594204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
