@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7f8c615-e58f-4b7b-92dd-62f203e648c7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/study-cracking-the-coding-interview.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1-4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1-5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1-6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1-7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1-8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/1-9.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2-1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2-2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2-3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2-4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2-5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2-6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2-7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/2-8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3-1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3-2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3-3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3-4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3-5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/3-6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/stack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4-1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4/4-2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter4/4-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4/4-2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -191,7 +164,8 @@
       <workItem from="1574672600010" duration="344000" />
       <workItem from="1575195423487" duration="2593000" />
       <workItem from="1575277064980" duration="367000" />
-      <workItem from="1575373902233" duration="3957000" />
+      <workItem from="1575373902233" duration="4520000" />
+      <workItem from="1575791282077" duration="658000" />
     </task>
     <servers />
   </component>
@@ -203,7 +177,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
